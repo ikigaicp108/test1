@@ -1,1 +1,2 @@
 this is logfile 2
+making a change here part2
